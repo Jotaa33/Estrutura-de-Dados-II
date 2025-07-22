@@ -1,0 +1,2 @@
+No código o Huffman foi usado para codificar dados de desgastes dos pneus e variados setores e voltas da pista, pois pode ser interessante que esses dados estejam codificados para prevenir que outras equipes acompanha o desenvolvimento do carro.
+Já a parte de Hashing (Função meio-quadrado e Multiplicação) foi usada para identificar rapidamente dados que o chefe de equipe quiser armazenar, por exemplo algum dado importante de corrida que vai ser usada para futuras pesquisas. A pesquisa será feita através de um código por exemplo "V4S7" onde V= Volta e S= Setor
